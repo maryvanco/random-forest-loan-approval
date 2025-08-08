@@ -6,7 +6,7 @@ This project focuses on developing a high-accuracy predictive model to predict l
 This analysis was part of a larger collaborative project that compared several other machine learning algorithm's ability to classify loan approvals.
 
 ## Dataset
-The dataset used for this project was sourced from Kaggle. You can find the dataset here: [Kaggle Dataset Link]([https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset])
+The dataset used for this project was sourced from Kaggle. You can find the dataset here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 
 ## Results
 | Metric          | Logistic Regression | Random Forest |
